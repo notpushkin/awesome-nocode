@@ -2,7 +2,7 @@
 
 A curated list of awesome [nocode](https://github.com/kelseyhightower/nocode) frameworks, libraries, software and resources.
 
-Inspired by [awesome-python](https://github.com/vinta/awesome-python).
+> (Looking for real #nocode? [This article](https://vas3k.com/blog/nocode/) might be interesting for you!)
 
 - [Awesome Nocode](#awesome-nocode)
     - [Admin Panels](#admin-panels)
